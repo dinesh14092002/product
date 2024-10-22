@@ -20,6 +20,27 @@ const products = [
         description: "The Vivo V9 Pro has a 6.3-inch display with a small notch at the top. It is powered by a Qualcomm Snapdragon 660 processor and has 6GB of RAM. There is 64GB of internal storage which is further expandable upto 256GB.The vivo X90 Pro boots Android 13 with a proprietary layer on top, which varies depending on where you are in the world. The China-bound version is called Origin OS 3, while we get the 'international' Funtouch OS - v13, to be specific.X90 Pro is not a professional waterproof mobile phone, but it is splash-, water- and dust-resistant under normal use. It is tested under controlled laboratory conditions with a rating of IP68 under IEC standard 60529.Vivo X90 Pro Plus features a VC liquid cooling solution with a soaking plate covering an area of 4285mm².",
         price: "$30",
         Image: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRoUWE1_Q9WNApLU9NXC1FR2hFps7Wt7TfuOWPyMZgyFYOdaHWdDkbTZdl4l8VtPikigwj4jvLzL_XqC6q5diOUbhCLyZgv2slov-FsRfGR6SkzK1NX83KV2OEnqKo0rWIoOG59Luw&usqp=CAc"
+    },
+    {
+        id: 4,
+        name: "Google Pixel 7 Pro",
+        description: "The Google Pixel 7 Pro features a 6.7-inch LTPO OLED display with a resolution of 3120 x 1440 pixels. It is powered by the Google Tensor G2 chip, with 12GB of RAM and storage options of 128GB, 256GB, or 512GB. The camera system includes a 50MP main sensor, a 12MP ultra-wide sensor, and a 48MP telephoto lens, making it perfect for photography enthusiasts.",
+        price: "$999",
+        Image: "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQzTnC2KGmplYCQ18-j-FDWCoh5Xdy_FoZ1sV4pE04JZZwbuYGNk6mzmItT0QR3JtdYDGS82bPd9UaS6NV2t6wlS6fjJ16NqI9F1n6gRfCBo-yduDANhEXysJKPig&usqp=CAc"
+    },
+    {
+        id: 5,
+        name: "OnePlus 11",
+        description: "The OnePlus 11 features a 6.7-inch Fluid AMOLED display with a refresh rate of 120Hz. It is powered by the Snapdragon 8 Gen 2 processor, paired with up to 16GB of RAM and 256GB of storage. The camera setup includes a 50MP main sensor and a 48MP ultra-wide sensor, ensuring stunning photography and videography.",
+        price: "$699",
+        Image: "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRI8-vwA0NoprLQmlxzo9oDJpSZs7X7GkvMLPNAHGbZC6KtTBptKKU0irlpDhR-FwS5aScvHGwcZDwtYPiEX6MCsrVLQe3BUQVTTF6WMXdBz32kY-G_yhnC24wukAZZw3DOBn4_Og&usqp=CAc"
+    },
+    {
+        id: 6,
+        name: "Xiaomi 13 Pro",
+        description: "The Xiaomi 13 Pro features a 6.73-inch AMOLED display with a 120Hz refresh rate. Powered by the Snapdragon 8 Gen 2 processor and up to 12GB of RAM, it offers seamless performance. The camera system includes a 50MP triple-lens setup for professional-quality photography.",
+        price: "$899",
+        Image: "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRLbjGoAwG8_j51lD94sgbUuRUYG7qOndkSrhJJtLqee5-A2LqtzUhw-X7QbctHBUaJ_QF3R5mVX2eskfQ9TiAsJS4hfrINILxh_ycyFLay1DB-nSw-XG8bJnpS86rcQ1xl_v8E8w&usqp=CAc"
     }
 ];
 
